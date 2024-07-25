@@ -139,3 +139,40 @@ a, .hero-subtext {
     padding-top: 8px;
 }
 
+.signup-container {
+    display: flex;
+    background-color: #3882F6;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 72px 144px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.signup-button {
+    border: 2px solid #e5e7eb;
+    border-radius: 6px;
+    background-color: #3882F6;
+    color: #e5e7eb;
+    padding: 4px 32px;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.signup-title {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.signup-subtext {
+    color: #e5e7eb;
+    font-size: 16px;
+}
+
+.footer-container {
+    text-align: center;
+    color: #e5e7eb;
+    padding: 32px;
+}
